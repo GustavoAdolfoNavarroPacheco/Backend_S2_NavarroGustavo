@@ -19,11 +19,26 @@ Backend_S2_NavarroGustavo/
 │   │   └── index.html
 │   │
 │   └── Day3/
-│       ├── scripts/
-│       │   ├── encapsulamiento.js
-│       ├── styles/
-│       │   └── styles.css
-│       └── index.html
+│       ├── EncapsulamientoFiles/
+│       │   ├── scripts/
+│       │   │   └── encapsulamiento.js
+│       │   ├── styles/
+│       │   │   └── styles.css
+│       │   └── index.html
+│       │
+│       ├── HerenciaFiles/
+│       │   ├── scripts/
+│       │   │   └── herencia.js
+│       │   ├── styles/
+│       │   │   └── styles.css
+│       │   └── index.html
+│       │
+│       └── PolimorfismoFiles/
+│           ├── scripts/
+│           │   └── polimorfismo.js
+│           ├── styles/
+│           │   └── styles.css
+│           └── index.html
 │    
 └── README.md
 ```
