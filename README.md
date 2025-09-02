@@ -7,22 +7,24 @@ This repository shows the progress of learning and development of __*Backend*__ 
 ```
 Backend_S2_NavarroGustavo/
 │
-├── Dia1/
-│   ├── scripts/
-│   │   ├── encapsulamiento.js
-│   │   ├── herencia.js
-│   │   └── polimorfismo.js
-│   ├── styles/
-│   │   └── styles.css
-│   └──index.html
-│
-├── Dia3/
-│   ├── scripts/
-│   │   ├── encapsulamiento.js
-│   ├── styles/
-│   │   └── styles.css
-│   └── index.html
-│
+├── Practice/
+│   │
+│   ├── Day1/
+│   │   ├── scripts/
+│   │   │   ├── encapsulamiento.js
+│   │   │   ├── herencia.js
+│   │   │   └── polimorfismo.js
+│   │   ├── styles/
+│   │   │   └── styles.css
+│   │   └──index.html
+│   │
+│   └── Day3/
+│       ├── scripts/
+│       │   ├── encapsulamiento.js
+│       ├── styles/
+│       │   └── styles.css
+│       └── index.html
+│    
 └── README.md
 ```
 
